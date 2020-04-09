@@ -1,2 +1,2 @@
-# nCOVID
-Novel Coronavirus Forecasting-2019
+#Forecasting of nCOVID-2019
+For More info go through Project Documentation:
