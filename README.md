@@ -1,4 +1,3 @@
 <html>
-  <head><title>NOVEL CORONAVIRUS-2019 FORECASTING</title></head>
-  <body>For More Info Go Through Project Documentation</body>
+  <body><p>NOVEL CORONAVIRUS-2019-FORECASTING</p><p>For More Info Go Through Project Documentation</p></body>
 </html>
